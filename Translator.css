@@ -1,0 +1,49 @@
+body {
+background-image: url("img.jpg");
+ background-position: center; 
+  background-repeat: no-repeat;  
+  background-size: cover; 
+  margin: 25px 50px 50px 50px;
+}
+h1 
+{
+	  font-size: 50px;
+	  text-align: center;
+	  color: white;
+      text-decoration: underline;
+      text-shadow: 3px 2px green;
+}
+#txtSource {
+      border: solid;
+      color: green;
+}
+#txtTarget {
+	border: solid;
+      color: green;
+}
+h3 {
+     color: white;
+     text-align: center;
+     padding-left: 20%
+}
+#btnTranslate {
+	font-size: 20px;
+}
+#txtSource {
+	margin-left: 100px;
+}
+#ddlSource {
+	font-size: 20px; 
+}
+#ddlTarget {
+   font-size: 20px;	
+   position:fixed;
+   margin-left:-325px;
+   margin-top: -14px;
+}
+#area{
+	margin-right:px;
+	padding:relative;
+	position: relative;
+	margin-left:315px;
+}
